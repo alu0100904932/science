@@ -1,0 +1,19 @@
+{
+  "name": "@alu0100904932/science",
+  "version": "1.0.0",
+  "description": "",
+  "main": "science.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0100904932/science.git"
+  },
+  "author": "alu0100904932",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100904932/science/issues"
+  },
+  "homepage": "https://github.com/alu0100904932/science#readme"
+}
